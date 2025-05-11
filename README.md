@@ -23,7 +23,7 @@ Olho de Hórus é uma plataforma interativa onde cidadãos podem registrar denú
 
 ##  Diagrama de Casos de Uso
 
-![Casos de Uso](./imagens/casos-de-uso.png)
+![Casos de Uso](./casos-de-uso.png)
 
 ##  Documentação Técnica
 
